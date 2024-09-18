@@ -1,2 +1,2 @@
 # Guided-Cap-3
-Guided Cap 3
+This file contains reports, code notebooks, data and presentations for the final guided capstone project, in which I will develop a model to predict lung-cell squamous cell carcinoma from publically available gene expression array data with 57000 transcripts per sample.  Gene annotations are provided through a separate database containing 47000 human genes.  The goal is to find a reliable predictor set that could be deployed for use with microplate wells in a simple, low-cost in-patient blood test.
