@@ -1,0 +1,9 @@
+Final model parameters and gene set for Microarray Mining of LUSC dataset
+
+Params: the model was run with the following settings:
+
+LogisticRegression(solver = 'liblinear', max_iter = 500, C=0.1, penalty='l2')
+
+The final predictor gene set was:
+
+Final_GL = ['SIM2', 'TBX4', 'ZNF157', 'CIC', 'NKIRAS2', 'NKIRAS1', 'DPPA2', 'DPPA4', 'STK40', 'COPA', 'TMEM38B', 'CCDC40', 'SNHG20', 'ATXN1L', 'CFC1B', 'FENDRR', 'LAMA3', 'MAN1A2', 'MAN2A1', 'MSH5']
